@@ -445,6 +445,8 @@ en:
       cant_allow_membership_requests: "You cannot allow membership requests for a group without any owners."
       already_requested_membership: "You have already requested membership for this group."
       adding_too_many_users: "Maximum %{limit} users can be added at once"
+      usernames_or_emails_required: "Usernames or emails must be present"
+      no_invites_with_sso: "You cannot invite unregistered people when SSO is enabled"
     default_names:
       everyone: "everyone"
       admins: "admins"
